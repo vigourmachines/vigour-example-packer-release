@@ -71,7 +71,8 @@
                 "build.html": true,
                 "build.js": true,
                 "build.css": true,
-                "assets": "*"
+                "assets": "*",
+                "empty.txt": true
             }
         }
     },
