@@ -116,6 +116,18 @@
             "assets": "*"
           }
         },
+        "samsungtizentv":{
+          "xmlConfig":{
+            "id":"",
+            "productName":"Vigour Samsung TIZEN TV Example",
+            "tizenApp":"Tizen App test",
+            "packageVersion":"Package app test",
+            "requiredVersion":"Required version test"
+          },
+          "icon":{
+            "ThumbIcon": "assets/img/appIcon.png"
+          }
+        },
         "lgtv": {
           "productName": "Vigour LG Example",
           "assets": {
@@ -124,6 +136,9 @@
             "build.css": true,
             "assets": "*"
           }
+        },
+        "chromecast": {
+          "appID": "E57A6AF1"
         }
       }
     },
